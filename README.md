@@ -1,7 +1,8 @@
 # 📊 SQL Data Analytics Portfolio
 
 🌐 Language / Langue  
-🇬🇧 English | 🇫🇷 Français
+- English  
+- Français 
 
 ---
 
